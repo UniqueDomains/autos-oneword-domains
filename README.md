@@ -1,10 +1,10 @@
-# Available .AUTOS One-Word Domains (12,345)
+# Available .AUTOS One-Word Domains (12,358)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C345%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C358%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,12 +12,12 @@
 Daily-updated public extract of available and resale .autos one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **12,345 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **12,358 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,345 domains · **Median ask:** $161.25 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,358 domains · **Median ask:** $144.67 · **High-demand under $2,500:** 22
 
-**Last updated:** 2026-06-04  
-**Canonical page:** `https://unique.domains/domains/tld/autos`  
+**Last updated:** 2026-08-06
+**Canonical page:** `https://unique.domains/domains/tld/autos`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .AUTOS one-word domain
 
 ### Files
 
-- `autos.csv` — public CSV extract (1,000 rows)
-- `autos.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `autos.csv`, public CSV extract (1,000 rows)
+- `autos.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
-| motive.autos    | available | $1.99     | —             | 112            | 62     | 6      | name.com                                     |
-| leader.autos    | resell    | $1.99     | —             | 72             | 28     | 6      | Spaceship, Inc.                              |
-| WhatsApp.autos  | premium   | $2,500    | —             | 114            | 96     | 8      | name.com                                     |
-| warp.autos      | available | $1.99     | —             | 90             | 44     | 4      | name.com                                     |
-| highway.autos   | resell    | $1.99     | —             | 68             | 21     | 7      | Dynadot LLC                                  |
-| universal.autos | premium   | $2,500    | —             | 96             | 80     | 9      | name.com                                     |
-| humans.autos    | available | $1.99     | —             | 76             | 43     | 6      | name.com                                     |
-| superb.autos    | resell    | $1.99     | —             | 78             | 18     | 6      | Dynadot LLC                                  |
-| jetpack.autos   | premium   | $2,500    | —             | 96             | 75     | 8      | name.com                                     |
-| conscious.autos | available | $1.99     | $20.99        | 89             | 39     | 9      | name.com                                     |
-| flow.autos      | resell    | —         | —             | 96             | 68     | 4      | Xiamen ChinaSource Internet Service Co., Ltd |
-| impact.autos    | premium   | $2,500    | —             | 92             | 74     | 6      | name.com                                     |
-| label.autos     | available | $1.99     | —             | 70             | 39     | 5      | name.com                                     |
-| arm.autos       | resell    | —         | —             | 76             | 52     | 3      | Dynadot LLC                                  |
-| Siri.autos      | premium   | $2,500    | —             | 76             | 70     | 4      | name.com                                     |
-| emoji.autos     | available | $1.99     | $15.75        | 88             | 38     | 5      | namesilo                                     |
-| share.autos     | resell    | —         | —             | 72             | 49     | 5      | Spaceship, Inc.                              |
-| aladdin.autos   | premium   | $2,500    | —             | 76             | 67     | 7      | name.com                                     |
-| unify.autos     | available | $1.99     | $20.99        | 72             | 38     | 5      | name.com                                     |
-| join.autos      | resell    | —         | —             | 96             | 44     | 4      | Namecheap                                    |
+| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar            |
+| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------- |
+| ain.autos     | available | $1.80     | $19.98        | low            | low    | 3      | namecheap            |
+| leader.autos  | resell    | $1.99     | —             | high           | low    | 6      | Spaceship, Inc.      |
+| age.autos     | premium   | $812.50   | —             | high           | low    | 3      | name.com             |
+| bow.autos     | available | $1.99     | $15.75        | high           | low    | 3      | namesilo             |
+| superb.autos  | resell    | $1.99     | —             | high           | low    | 6      | Dynadot LLC          |
+| gay.autos     | premium   | $812.50   | —             | high           | medium | 3      | name.com             |
+| cue.autos     | available | $1.99     | —             | medium         | low    | 3      | name.com             |
+| highway.autos | resell    | $1.99     | —             | medium         | low    | 7      | Dynadot LLC          |
+| nan.autos     | premium   | $812.50   | —             | high           | low    | 3      | name.com             |
+| cxl.autos     | available | $1.80     | $19.98        | low            | low    | 3      | namecheap            |
+| arm.autos     | resell    | —         | —             | high           | medium | 3      | Dynadot LLC          |
+| set.autos     | premium   | $812.50   | —             | high           | low    | 3      | name.com             |
+| hug.autos     | available | $1.99     | —             | high           | low    | 3      | name.com             |
+| map.autos     | resell    | —         | —             | high           | medium | 3      | Sav.com, LLC - 48    |
+| wax.autos     | premium   | $812.50   | —             | medium         | low    | 3      | name.com             |
+| ive.autos     | available | $1.99     | —             | medium         | low    | 3      | name.com             |
+| tap.autos     | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc.      |
+| acne.autos    | premium   | $812.50   | —             | medium         | low    | 4      | name.com             |
+| lap.autos     | available | $1.99     | —             | high           | low    | 3      | name.com             |
+| east.autos    | resell    | —         | —             | high           | low    | 4      | UM DOMAINS PTE. LTD. |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 12,345 live domains                        |
+| 1,000-row public sample | 12,358 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 0 high-demand names under $2,500           |
+| Basic exported fields   | 22 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely made up of one-word .autos domains. The defining trait is the extension: every name ends in .autos, which makes automotive relevance explicit but also puts more weight on the word itself. In this set, examples range from broad dictionary terms such as identity.autos and regular.autos to more unusual options like amiss.autos or highlighting.autos. When comparing these domains, focus on whether the word strengthens an automotive use case, how easily it can be remembered and repeated aloud, and whether the asking price fits the level of brand clarity you get. The median ask is 92.16.
+This list of .autos domains spans 12,358 one-word names, with 10,991 currently available, 1,114 marked premium, and 253 in resale. The median ask sits at $145, and the vast majority price under $500, making this a low-cost entry point into the .autos extension. Demand skews low across the set—only 74 domains score above the mid-demand threshold—so pricing and brandability matter more than speculative upside when comparing names like fitness.autos, worm.autos, or printers.autos.
 
-- All names in this selection use the .autos extension
-- Count: 12,340 domains with a median ask of 92.16
-- Short, clear words usually carry stronger recall
-- Check word-to-extension fit before paying a premium
+- 10,987 available, 1,114 premium, 253 resale-status domains
+- Median ask $145; 10,087 domains priced under $500
+- Only 74 domains show mid-to-high demand scores
+- 8,098 names flagged easy-to-spell for quick recall
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .AUTOS One-Word Domains*. Version 2026-06-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .AUTOS One-Word Domains*. Version 2026-08-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
