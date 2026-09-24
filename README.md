@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .autos one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 29,956 domains · **Median ask:** $68.19 · **High-demand under $2,500:** 25
 
-**Last updated:** 2026-09-23
+**Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/tld/autos`
 **Best for:** founders, investors, studios
 
@@ -66,22 +66,22 @@ print(df.head())
 | ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------- |
 | ain.autos     | available | $1.80     | $19.98        | low            | low    | 3      | namecheap            |
 | leader.autos  | resell    | $1.99     | —             | high           | low    | 6      | Spaceship, Inc.      |
-| gay.autos     | premium   | $812.50   | —             | high           | medium | 3      | name.com             |
-| bow.autos     | available | $1.99     | $17.29        | medium         | low    | 3      | namesilo             |
-| superb.autos  | resell    | $1.99     | —             | high           | low    | 6      | Dynadot LLC          |
 | nan.autos     | premium   | $812.50   | —             | high           | low    | 3      | name.com             |
+| bow.autos     | available | $1.99     | $17.29        | medium         | low    | 3      | namesilo             |
+| superb.autos  | resell    | $1.99     | —             | medium         | low    | 6      | Dynadot Inc          |
+| wax.autos     | premium   | $812.50   | —             | medium         | low    | 3      | name.com             |
 | cue.autos     | available | $1.99     | —             | medium         | low    | 3      | name.com             |
 | highway.autos | resell    | $1.99     | —             | medium         | low    | 7      | Dynadot LLC          |
-| wax.autos     | premium   | $812.50   | —             | medium         | low    | 3      | name.com             |
+| acne.autos    | premium   | $812.50   | —             | low            | low    | 4      | name.com             |
 | cxl.autos     | available | $1.80     | $19.98        | low            | low    | 3      | namecheap            |
 | arm.autos     | resell    | —         | —             | high           | medium | 3      | Dynadot LLC          |
-| acne.autos    | premium   | $812.50   | —             | low            | low    | 4      | name.com             |
+| ball.autos    | premium   | $2,500    | —             | medium         | low    | 4      | name.com             |
 | hug.autos     | available | $1.99     | —             | high           | low    | 3      | name.com             |
 | map.autos     | resell    | —         | —             | high           | medium | 3      | Sav.com, LLC - 48    |
-| ball.autos    | premium   | $2,500    | —             | medium         | low    | 4      | name.com             |
+| blow.autos    | premium   | $2,660    | $2,660        | low            | low    | 4      | namesilo             |
 | ive.autos     | available | $1.99     | —             | medium         | low    | 3      | name.com             |
 | tap.autos     | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc.      |
-| blow.autos    | premium   | $2,660    | $2,660        | low            | low    | 4      | namesilo             |
+| care.autos    | premium   | $2,600    | $2,600        | high           | low    | 4      | namecheap            |
 | lap.autos     | available | $1.99     | —             | high           | low    | 3      | name.com             |
 | east.autos    | resell    | —         | —             | high           | low    | 4      | UM DOMAINS PTE. LTD. |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .AUTOS One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .AUTOS One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
