@@ -1,10 +1,10 @@
-# Available .AUTOS One-Word Domains (29,956)
+# Available .AUTOS One-Word Domains (32,472)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-29%2C956%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-32%2C472%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .autos one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **29,956 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **32,472 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 29,956 domains · **Median ask:** $68.19 · **High-demand under $2,500:** 25
+**Public extract:** 1,000 rows · **Live catalog:** 32,472 domains · **Median ask:** $63.49 · **High-demand under $2,500:** 24
 
-**Last updated:** 2026-09-24
+**Last updated:** 2026-09-25
 **Canonical page:** `https://unique.domains/domains/tld/autos`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar            |
-| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------- |
-| ain.autos     | available | $1.80     | $19.98        | low            | low    | 3      | namecheap            |
-| leader.autos  | resell    | $1.99     | —             | high           | low    | 6      | Spaceship, Inc.      |
-| nan.autos     | premium   | $812.50   | —             | high           | low    | 3      | name.com             |
-| bow.autos     | available | $1.99     | $17.29        | medium         | low    | 3      | namesilo             |
-| superb.autos  | resell    | $1.99     | —             | medium         | low    | 6      | Dynadot Inc          |
-| wax.autos     | premium   | $812.50   | —             | medium         | low    | 3      | name.com             |
-| cue.autos     | available | $1.99     | —             | medium         | low    | 3      | name.com             |
-| highway.autos | resell    | $1.99     | —             | medium         | low    | 7      | Dynadot LLC          |
-| acne.autos    | premium   | $812.50   | —             | low            | low    | 4      | name.com             |
-| cxl.autos     | available | $1.80     | $19.98        | low            | low    | 3      | namecheap            |
-| arm.autos     | resell    | —         | —             | high           | medium | 3      | Dynadot LLC          |
-| ball.autos    | premium   | $2,500    | —             | medium         | low    | 4      | name.com             |
-| hug.autos     | available | $1.99     | —             | high           | low    | 3      | name.com             |
-| map.autos     | resell    | —         | —             | high           | medium | 3      | Sav.com, LLC - 48    |
-| blow.autos    | premium   | $2,660    | $2,660        | low            | low    | 4      | namesilo             |
-| ive.autos     | available | $1.99     | —             | medium         | low    | 3      | name.com             |
-| tap.autos     | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc.      |
-| care.autos    | premium   | $2,600    | $2,600        | high           | low    | 4      | namecheap            |
-| lap.autos     | available | $1.99     | —             | high           | low    | 3      | name.com             |
-| east.autos    | resell    | —         | —             | high           | low    | 4      | UM DOMAINS PTE. LTD. |
+| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
+| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
+| aft.autos      | available | $1.80     | $19.98        | high           | low    | 3      | namecheap         |
+| leader.autos   | resell    | $1.99     | —             | high           | low    | 6      | Spaceship, Inc.   |
+| ads.autos      | premium   | $812.50   | —             | high           | medium | 3      | name.com          |
+| ain.autos      | available | $1.80     | $19.98        | high           | low    | 3      | namecheap         |
+| highway.autos  | resell    | $1.99     | —             | high           | low    | 7      | Dynadot LLC       |
+| are.autos      | premium   | $812.50   | —             | high           | low    | 3      | name.com          |
+| bjp.autos      | available | $1.99     | —             | high           | low    | 3      | name.com          |
+| valuable.autos | resell    | $1.99     | —             | high           | low    | 8      | Dynadot LLC       |
+| dye.autos      | premium   | $812.50   | —             | high           | low    | 3      | name.com          |
+| btw.autos      | available | $1.99     | $15.75        | high           | low    | 3      | namesilo          |
+| aaa.autos      | resell    | —         | —             | high           | medium | 3      | Sav.com, LLC - 30 |
+| ing.autos      | premium   | $2,500    | —             | high           | low    | 3      | name.com          |
+| bus.autos      | available | $1.99     | $17.29        | high           | low    | 3      | namesilo          |
+| arm.autos      | resell    | —         | —             | high           | medium | 3      | Dynadot LLC       |
+| lan.autos      | premium   | $812.50   | —             | high           | low    | 3      | name.com          |
+| cot.autos      | available | $1.99     | $15.75        | high           | low    | 3      | namesilo          |
+| map.autos      | resell    | —         | —             | high           | medium | 3      | Sav.com, LLC - 48 |
+| man.autos      | premium   | $812.50   | —             | high           | low    | 3      | name.com          |
+| cow.autos      | available | $1.99     | $15.75        | high           | low    | 3      | namesilo          |
+| tap.autos      | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc.   |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 29,956 live domains                        |
+| 1,000-row public sample | 32,472 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 25 high-demand names under $2,500          |
+| Basic exported fields   | 24 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .AUTOS One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .AUTOS One-Word Domains*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
