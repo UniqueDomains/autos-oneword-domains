@@ -6,10 +6,10 @@ babfa425-038f-4dc7-bbfd-c28258c7c2f2,senseless.autos,available,1.8,21.98,medium,
 823c43f1-cfc1-4aab-bd39-3ffdaf6e91db,reputable.autos,available,1.8,21.98,high,low,9,namecheap,,,09/09/2026 14:45
 bd09827e-e240-4981-af6a-8b1b6a6ee22c,remote.autos,resell,684.64,,high,medium,6,"NameCheap, Inc.",16/12/2025 21:33,16/12/2026 23:59,26/09/2026 08:35
 8b51789d-5679-43d6-a0a6-2248030c554a,descend.autos,available,1.99,15.75,high,low,7,namesilo,,,
-ea99ef88-ed97-4992-a89e-c8542bacb54e,anecdotal.autos,available,1.8,19.98,high,low,9,namecheap,,,
+ea99ef88-ed97-4992-a89e-c8542bacb54e,anecdotal.autos,available,1.8,19.98,medium,low,9,namecheap,,,
 d4346342-8392-4cde-81d3-3173fcac1e2c,madison.autos,premium,832,832,high,low,7,namesilo,,,08/09/2026 13:09
 bf80125e-8a97-49f0-b3d4-51094ac3eb2c,measurable.autos,available,1.8,19.98,high,low,10,namecheap,,,24/08/2026 18:27
-c56f6af1-3dd1-4e79-8a15-c61e3dba1215,anyway.autos,available,1.99,15.75,high,low,6,namesilo,,,
+c56f6af1-3dd1-4e79-8a15-c61e3dba1215,anyway.autos,available,1.54,14.21,medium,low,6,porkbun,,,27/09/2026 22:14
 07cc2dad-f6fc-4b9c-89b5-8f09358bb68f,triumph.autos,premium,2660,2660,high,high,7,namesilo,,,24/09/2026 19:43
 70d83343-ee47-4323-854f-8fe37b613d7b,disrepair.autos,available,1.99,17.29,high,low,9,namesilo,,,24/09/2026 23:02
 b0b11b9c-9ce6-4b19-aaca-447a35a74bb3,exulting.autos,available,1.8,19.98,high,low,8,namecheap,,,17/08/2026 19:44
@@ -23,8 +23,8 @@ f0f02cf3-5281-41c9-91da-06d0fd1ad0dd,palpatory.autos,available,1.8,21.98,medium,
 99de4ff3-0f1d-4b0b-9139-d2fd0c64b29e,metacarpal.autos,available,1.8,19.98,medium,low,10,namecheap,,,24/08/2026 21:30
 2c58e0db-b28b-48fb-84b3-7b9dfb186226,surrender.autos,available,1.99,17.29,high,low,9,namesilo,,,25/09/2026 14:32
 0c2cf061-944d-4edb-a9cb-6be8d28f772c,unlocking.autos,available,1.99,,high,low,9,name.com,,,
-f5f84387-c459-4d4e-88aa-282254d0dca1,mown.autos,available,1.8,19.98,high,low,4,namecheap,,,25/08/2026 09:14
-79ac22fe-f24c-4cfc-8595-d0b45bdfe342,fright.autos,available,1.99,17.29,high,low,6,namesilo,,,17/09/2026 14:50
+f5f84387-c459-4d4e-88aa-282254d0dca1,mown.autos,available,1.8,19.98,medium,low,4,namecheap,,,25/08/2026 09:14
+79ac22fe-f24c-4cfc-8595-d0b45bdfe342,fright.autos,available,1.99,17.29,medium,low,6,namesilo,,,17/09/2026 14:50
 23a90fa5-c11b-4e9e-8397-cdaa449be837,contextual.autos,available,1.8,19.98,high,low,10,namecheap,,,12/08/2026 23:13
 0a51886f-28c2-495d-8cd8-be4090ff3552,blackfish.autos,available,1.8,21.98,medium,low,9,namecheap,,,24/09/2026 01:55
 22dcc8fb-a074-4814-83b7-9a7b953e5141,whilst.autos,available,1.99,,medium,low,6,name.com,,,
@@ -34,6 +34,7 @@ f5f84387-c459-4d4e-88aa-282254d0dca1,mown.autos,available,1.8,19.98,high,low,4,n
 6bc73a52-1cab-4b0e-bbf4-b8332b51953e,zealous.autos,available,1.8,21.98,high,low,7,namecheap,,,13/09/2026 15:10
 25d575c7-aa97-4513-ab2e-17c653ea0305,provoking.autos,available,1.8,19.98,high,low,9,namecheap,,,
 b4519ed7-16e0-4b70-a820-f2c84a573a87,apocynum.autos,available,1.8,21.98,medium,low,8,namecheap,,,19/09/2026 18:15
+5df07397-07ca-4b97-90a5-dcc8f44bd051,explode.autos,available,1.8,21.98,high,low,7,namecheap,,,27/09/2026 16:32
 0d16a17d-3be1-4e6c-8e97-31e710d1df03,graspable.autos,available,1.8,19.98,medium,low,9,namecheap,,,06/08/2026 08:18
 79d5fe29-2df9-4e7e-85ee-426271a8b401,wryly.autos,available,1.99,17.29,medium,low,5,namesilo,,,16/09/2026 11:46
 91f777cb-ae3b-419f-ba79-efcdeb10809a,semirigid.autos,available,1.8,21.98,medium,low,9,namecheap,,,10/09/2026 03:19
@@ -59,7 +60,7 @@ a04b60eb-714b-4be1-91e9-824a06aefb99,appreciate.autos,available,1.99,17.29,high,
 95e5e4a0-32da-4add-8c96-8660d3dd939c,arguments.autos,available,1.8,21.98,medium,low,9,namecheap,,,16/09/2026 05:03
 44a234cc-8250-4b08-a404-869a91f78202,marvell.autos,available,1.99,17.29,high,low,7,namesilo,,,19/09/2026 04:47
 fed39859-d182-405e-9d5d-4bfad5190431,adage.autos,available,1.99,17.29,high,low,5,namesilo,,,17/09/2026 06:09
-c16a3f46-afaa-45c7-867a-93682b98fe76,resolved.autos,available,1.99,,high,low,8,name.com,,,
+c16a3f46-afaa-45c7-867a-93682b98fe76,resolved.autos,available,1.99,17.29,high,low,8,namesilo,,,27/09/2026 12:25
 4c1dbcfa-89cc-40c1-9820-07788c174279,tireless.autos,available,1.8,19.98,high,low,8,namecheap,,,21/08/2026 00:49
 1a056494-4ceb-4708-8575-f28be21380e8,unsugared.autos,available,1.8,21.98,low,low,9,namecheap,,,12/09/2026 20:48
 f4bad05c-1f5b-4c0b-b2ac-124d7febbb3c,viva.autos,premium,2600,2600,high,medium,4,namecheap,,,04/09/2026 17:24
@@ -93,6 +94,7 @@ e240d0e8-7beb-411f-b8a4-96ffba3f116c,chicness.autos,available,1.8,19.98,high,low
 5be81e02-da81-4b6a-9ef7-6f25bcb9236c,james.autos,premium,812.5,,high,medium,5,name.com,,,
 274b3f79-ef11-4b25-9944-1275e7098f61,ameba.autos,available,1.8,21.98,medium,low,5,namecheap,,,18/09/2026 17:40
 4166b74d-445a-4f9d-bf82-b5e947574e6e,decadent.autos,available,1.8,19.98,high,low,8,namecheap,,,13/08/2026 20:50
+9bfd9a8e-dc38-4033-bc8b-27982e11496f,liar.autos,available,1.99,17.29,high,low,4,namesilo,,,27/09/2026 14:44
 274c686c-244d-46f6-b60c-8403f1dac59e,anisoptera.autos,available,1.8,21.98,medium,low,10,namecheap,,,19/09/2026 09:34
 cdbacd4e-c59f-493a-8d3f-c60dcc607e5b,lasting.autos,available,1.99,17.29,high,low,7,namesilo,,,24/09/2026 12:31
 a515ebd3-91c6-43d9-aebb-b959b3ff779d,dormie.autos,available,1.8,19.98,medium,low,6,namecheap,,,14/08/2026 16:21
@@ -105,14 +107,15 @@ fc53d819-21b8-414f-8880-94b302e43ad8,flowerbed.autos,available,1.8,21.98,high,lo
 6bb58f7c-29fc-4084-be69-cc74515ab58f,agnes.autos,available,1.99,17.29,high,low,5,namesilo,,,25/09/2026 14:30
 8dac5ff1-0eff-4ee1-ab1d-9cdde7c7509a,bioko.autos,available,1.8,21.98,medium,low,5,namecheap,,,23/09/2026 18:17
 27a78ddb-447e-4410-b9fc-6ae6f2ef1e0b,frail.autos,available,1.8,19.98,high,low,5,namecheap,,,18/08/2026 13:59
-6ee5940d-fe5a-4278-baaa-575caa006d54,reversible.autos,available,1.99,,high,low,10,name.com,,,
+6ee5940d-fe5a-4278-baaa-575caa006d54,reversible.autos,available,1.99,17.29,high,low,10,namesilo,,,27/09/2026 14:17
 b654283b-baa0-43d3-abc5-a3d78c148e44,desirous.autos,available,1.8,19.98,medium,low,8,namecheap,,,14/08/2026 03:49
 411cbdd3-d0b9-46b7-b9b2-386b36a64930,shivering.autos,available,1.8,21.98,high,medium,9,namecheap,,,10/09/2026 06:40
 5a7c789a-cd52-41da-b1e7-27ed7de28d11,fussy.autos,available,1.8,19.98,medium,low,5,namecheap,,,08/08/2026 07:47
 bca29416-6f7b-45e0-8ccf-3a9ecd4117f5,studious.autos,available,1.8,19.98,high,low,8,namecheap,,,10/08/2026 19:10
+8f6248c1-3ccd-4ec9-a82f-69d7e0286490,controls.autos,available,1.24,13.97,medium,low,8,spaceship,,,27/09/2026 23:26
 7fb0c354-3842-4d77-b3e6-3921c4f2baec,aquilegia.autos,available,1.99,17.29,medium,low,9,namesilo,,,19/09/2026 23:13
 ead9a68b-ec40-498a-8393-afded6039499,splay.autos,available,1.8,21.98,medium,low,5,namecheap,,,10/09/2026 16:06
-e084c862-fd62-4135-8cd1-4bff5d77e899,unwashed.autos,available,1.8,21.98,high,low,8,namecheap,,,08/09/2026 21:02
+e084c862-fd62-4135-8cd1-4bff5d77e899,unwashed.autos,available,1.8,21.98,medium,low,8,namecheap,,,08/09/2026 21:02
 13c6279a-0b18-4dc5-b90f-2caa4f2dd08d,donkeywork.autos,available,1.8,21.98,medium,low,10,namecheap,,,08/09/2026 21:22
 4d05d095-a564-4dd8-8083-13a6e57dfbce,leggy.autos,available,1.8,19.98,medium,low,5,namecheap,,,22/08/2026 22:57
 bffe9cf5-1a7f-4219-b98b-8d1e7bfe18fe,steakhouse.autos,available,1.99,17.29,high,low,10,namesilo,,,24/09/2026 14:46
@@ -124,12 +127,12 @@ a7314046-0692-41d3-8983-ae946ab74eac,spicy.autos,available,1.99,17.29,high,low,5
 2783622c-2833-4628-bd12-a53c7392441b,moronic.autos,available,1.8,19.98,medium,low,7,namecheap,,,25/08/2026 06:35
 89bc47e0-d7e3-4fa1-ac45-9cc7dc125974,lxxxi.autos,available,1.8,19.98,medium,low,5,namecheap,,,
 f05113a0-0993-4a7c-9a91-cedb94223e35,uml.autos,available,1.99,,high,low,3,name.com,,,
-a2e1f7dd-6d63-464e-a0bf-c555c606deda,gaza.autos,available,1.99,17.29,high,low,4,namesilo,,,25/09/2026 06:23
+a2e1f7dd-6d63-464e-a0bf-c555c606deda,gaza.autos,available,1.99,17.29,medium,low,4,namesilo,,,25/09/2026 06:23
 582f237e-8863-4a59-bcd0-b82e184d955f,chock.autos,available,1.8,21.98,medium,low,5,namecheap,,,14/09/2026 06:47
 93090007-ab2f-4bcf-bb45-1cdf6c9be3af,speechless.autos,available,1.99,17.29,medium,low,10,namesilo,,,19/09/2026 16:52
 9b7f5b5d-834e-4cbe-b726-c1367257c737,arcsecond.autos,available,1.99,17.29,medium,low,9,namesilo,,,20/09/2026 02:41
 df07356a-5137-4e39-96e4-41f8658c0ed4,velvetleaf.autos,available,1.8,21.98,medium,low,10,namecheap,,,16/09/2026 19:24
-2dbfb725-1329-4f0b-9315-f7d27143c36e,sapphic.autos,available,1.8,19.98,high,low,7,namecheap,,,23/08/2026 00:18
+2dbfb725-1329-4f0b-9315-f7d27143c36e,sapphic.autos,available,1.8,19.98,medium,low,7,namecheap,,,23/08/2026 00:18
 da5275fe-2714-4ec0-9fb9-09b248d74761,maimed.autos,available,1.8,19.98,medium,low,6,namecheap,,,24/08/2026 13:20
 c38ac5e4-8852-40f5-9672-a0dcb5395bf8,waiter.autos,available,1.99,,high,low,6,name.com,,,
 d936019b-98ed-4606-897e-4ab11c8f9a6d,lawyer.autos,premium,812.5,,high,low,6,name.com,,,
@@ -167,7 +170,7 @@ bbf13612-bc73-4811-a38a-fb302036679d,reachable.autos,available,1.8,21.98,high,lo
 3820df84-63cd-4876-a2f9-1f681b93828c,managers.autos,available,1.99,17.29,medium,low,8,namesilo,,,20/09/2026 10:01
 25c99fc6-c7fb-4407-a2dd-7c0414f792c0,dedicate.autos,available,1.99,15.75,high,low,8,namesilo,,,
 1c3a17df-7632-49b1-a963-d88fc77cf42c,aphis.autos,available,1.8,21.98,medium,low,5,namecheap,,,19/09/2026 17:05
-4ff9ccec-98c0-417a-8105-88e46c8ffff6,tasking.autos,available,1.99,,high,low,7,name.com,,,
+4ff9ccec-98c0-417a-8105-88e46c8ffff6,tasking.autos,available,1.99,,medium,low,7,name.com,,,
 a4ec0969-ce9a-421a-b27e-6313c2aaf08e,unmapped.autos,available,1.8,19.98,medium,low,8,namecheap,,,12/08/2026 02:55
 25ee4cb1-2b29-4792-b5ef-031f30d2e6c4,foiled.autos,available,1.8,19.98,medium,low,6,namecheap,,,14/08/2026 09:27
 eb023b55-184a-4265-b559-45fe9672d5cc,unbent.autos,available,1.8,21.98,medium,low,6,namecheap,,,12/09/2026 01:50
@@ -185,7 +188,7 @@ b742f384-48a0-498a-aeba-4be9b5aaf7d9,prostrate.autos,available,1.8,21.98,high,lo
 529a4e7b-e2d7-4321-84ab-271eecb799fa,purulent.autos,available,1.8,21.98,high,medium,8,namecheap,,,09/09/2026 06:30
 306e0b09-98ef-433a-9bf7-1c4b77802f9e,fop.autos,available,1.99,20.99,medium,low,3,name.com,,,13/08/2026 17:09
 42e06d05-8699-4dca-a38f-822e12565072,badmouth.autos,available,1.8,19.98,medium,low,8,namecheap,,,24/08/2026 14:04
-403c05f2-ea4d-4c94-ad1c-7704d4d8c07c,corresponding.autos,available,1.99,15.75,high,low,13,namesilo,,,
+403c05f2-ea4d-4c94-ad1c-7704d4d8c07c,corresponding.autos,available,1.99,15.75,medium,low,13,namesilo,,,
 b6408819-2bef-4d02-880b-bf91ee1577cb,unreadable.autos,available,1.8,19.98,medium,low,10,namecheap,,,22/08/2026 02:25
 39c740ac-a3c5-4a03-ac8b-ce764fea0c55,quieter.autos,available,1.99,,high,low,7,name.com,,,
 c73c76e3-6ff2-4420-b461-f31b2b747d70,sufficient.autos,available,1.99,,high,low,10,name.com,,,
@@ -216,6 +219,7 @@ f9b769e1-8e03-4c2c-a248-868c53ee2447,asmera.autos,available,1.99,17.29,medium,lo
 b13f3e52-bde8-4ab9-8f6f-f3e08c79715c,strait.autos,available,1.8,21.98,medium,low,6,namecheap,,,10/09/2026 21:53
 e482e02e-772f-4edd-b35c-e992a9142157,unpopular.autos,available,1.8,21.98,medium,low,9,namecheap,,,12/09/2026 17:11
 f31185d2-49b1-408f-8f1d-55f464fd9acd,arulo.autos,available,1.99,17.29,medium,low,5,namesilo,,,20/09/2026 12:11
+f2b0d035-3ad4-4e14-84e4-b3ced7a2f92b,complaining.autos,available,1.24,13.97,high,low,11,spaceship,,,27/09/2026 17:47
 2f007bb8-62e8-4e65-b792-56072aad5660,fretted.autos,available,1.8,19.98,medium,low,7,namecheap,,,18/08/2026 15:24
 1fc1e6f8-3af8-4f12-bfb0-235ff91b20df,downturn.autos,available,1.99,17.29,medium,low,8,namesilo,,,24/09/2026 23:42
 0bace6b8-ecd5-47f1-9a0f-dcfe670f9892,stitched.autos,available,1.8,21.98,high,low,8,namecheap,,,10/09/2026 05:09
@@ -265,7 +269,7 @@ f96fbea2-fa36-45d6-b363-e2514e50d28c,transparent.autos,available,1.99,,high,low,
 4ab6b47e-d79c-4fae-9d5d-7a46562cb62d,thrashing.autos,available,1.8,21.98,medium,low,9,namecheap,,,13/09/2026 07:54
 8d626cc1-f166-46ed-8adc-77b814bf77b9,intact.autos,available,1.8,19.98,high,low,6,namecheap,,,22/08/2026 07:49
 2c4188ea-d32c-412b-8c64-2ebe8cc3d87b,goosey.autos,available,1.8,19.98,medium,low,6,namecheap,,,14/08/2026 16:06
-8268fc78-317f-4d5f-ab24-641261b53d25,regular.autos,available,1.99,,high,low,7,name.com,,,
+8268fc78-317f-4d5f-ab24-641261b53d25,regular.autos,available,1.99,17.29,high,low,7,namesilo,,,27/09/2026 11:38
 0d31bf23-3b7d-4f8f-876c-ec832e7d8443,concoct.autos,available,1.99,15.75,high,low,7,namesilo,,,
 1b2ab98e-16a0-41fa-a7ce-652c3ce6ea9c,ohmic.autos,available,1.8,21.98,medium,low,5,namecheap,,,04/09/2026 01:46
 53dcc188-a076-49fb-aa0f-57a7ad8d6863,asbestos.autos,available,1.99,17.29,high,low,8,namesilo,,,20/09/2026 12:54
@@ -275,7 +279,7 @@ d72424a1-108b-40ca-a632-413f882de669,acknowledged.autos,available,1.99,,high,low
 84f5164a-8bc5-4663-a806-de6360a9a31b,dodgy.autos,available,1.8,19.98,medium,low,5,namecheap,,,12/08/2026 01:46
 1c598bad-d598-408e-86a1-e9d9df43404d,tyrolean.autos,available,1.8,21.98,medium,low,8,namecheap,,,11/09/2026 22:33
 0f8e49fc-d9ff-4f10-8e67-6f34328fa48f,devolve.autos,available,1.8,19.98,medium,low,7,namecheap,,,13/08/2026 23:59
-b12fa08f-2eb2-4419-86e0-5cf9863e3e19,massively.autos,available,1.8,21.98,high,low,9,namecheap,,,15/09/2026 13:35
+b12fa08f-2eb2-4419-86e0-5cf9863e3e19,massively.autos,available,1.8,21.98,medium,low,9,namecheap,,,15/09/2026 13:35
 a4709c62-a9d1-4461-8b0d-fb98d6bf5352,ariocarpus.autos,available,1.99,17.29,medium,low,10,namesilo,,,20/09/2026 05:32
 2c821d4b-914f-40b9-bc99-bdb82e7d02b7,insecure.autos,available,1.8,19.98,high,low,8,namecheap,,,22/08/2026 06:42
 2aec1e0e-a8e5-4373-9b05-b02cd30beb4b,monetary.autos,available,1.8,21.98,high,low,8,namecheap,,,25/09/2026 21:29
@@ -288,20 +292,21 @@ b58ee8f3-caf0-4bfc-9d3e-f39599336ece,epicene.autos,available,1.8,19.98,medium,lo
 912281da-75bc-49ad-aa07-d197f09ffbc4,allele.autos,available,1.99,17.29,medium,low,6,namesilo,,,18/09/2026 10:44
 5478b202-2b02-41a3-a6a6-282eda86fe3f,aether.autos,available,1.99,17.29,high,medium,6,namesilo,,,17/09/2026 13:40
 0935ccc1-c192-455d-9ee0-e35520e9cd33,subsets.autos,available,1.99,17.29,medium,low,7,namesilo,,,21/09/2026 01:05
-d170bb28-f42e-4936-ac1f-11accae0a0fe,ranking.autos,available,1.99,,high,low,7,name.com,,,
+d170bb28-f42e-4936-ac1f-11accae0a0fe,ranking.autos,available,1.8,21.98,high,low,7,namecheap,,,27/09/2026 09:40
 a91fe5ee-e36c-465c-8a18-e7cc7792a678,aurous.autos,available,1.8,19.98,medium,low,6,namecheap,,,07/08/2026 17:31
 99ff3f3c-b86d-441d-9a03-2210a9204f6f,shivaree.autos,available,1.99,17.29,medium,low,8,namesilo,,,23/09/2026 06:07
 3efa2f35-16d7-4025-b53e-2fe841a85d31,makeover.autos,premium,812.5,,high,low,9,name.com,,,
 505e025b-5204-46f2-a1bb-78091fa68887,bema.autos,available,1.99,17.29,high,low,4,namesilo,,,23/09/2026 07:15
-7372b946-e37d-4476-880b-592f804b9b29,whitefish.autos,available,1.99,,high,low,10,name.com,,,
+7372b946-e37d-4476-880b-592f804b9b29,whitefish.autos,available,1.99,,medium,low,10,name.com,,,
 2c95c91b-60e7-43e4-8c8e-eb11b4714459,reservoir.autos,available,1.99,17.29,high,low,9,namesilo,,,20/09/2026 11:41
 ca3f07a9-8866-4211-ae42-60df5e0e79f0,authoriser.autos,available,1.99,17.29,medium,low,10,namesilo,,,21/09/2026 05:16
 7f2c03ab-67ac-4b6c-8279-1ef38a41dd51,bible.autos,available,1.99,,high,medium,5,name.com,,,
 3ea7b06b-e689-4dde-82f4-1d11898a65f1,maximizing.autos,available,1.8,19.98,high,low,10,namecheap,,,24/08/2026 17:56
 d5899559-1265-481e-b6fa-186ce3f5f0e7,dionysian.autos,available,1.8,19.98,medium,low,9,namecheap,,,14/08/2026 08:24
+7db6460e-2a56-466d-9a03-26c32e5a919a,insisted.autos,available,1.99,17.29,medium,low,8,namesilo,,,27/09/2026 23:35
 dbd963e3-928d-40d1-92c5-d9e11c9c4043,arbiter.autos,available,1.99,17.29,high,low,7,namesilo,,,20/09/2026 00:41
 5e7e6ef4-406c-40b0-a97e-8e532d7c4292,macabre.autos,available,1.8,19.98,medium,low,7,namecheap,,,18/08/2026 23:19
-cecfdbc1-c94b-486f-8b68-d92f9e3ac906,harlot.autos,available,1.99,20.99,high,low,6,name.com,,,13/08/2026 14:19
+cecfdbc1-c94b-486f-8b68-d92f9e3ac906,harlot.autos,available,1.99,20.99,medium,low,6,name.com,,,13/08/2026 14:19
 36f321a0-c8e1-471a-9637-2e70d55d6c1a,media.autos,premium,845,15.73,high,medium,5,namecheap,,,
 4445ed2e-7db0-4b35-8a62-fa56a11b4e50,swingy.autos,available,1.8,19.98,medium,low,6,namecheap,,,23/08/2026 09:29
 30a1ca34-c00b-410d-a2d7-e40e201dd26f,infancy.autos,available,1.99,17.29,high,low,7,namesilo,,,21/09/2026 13:47
@@ -367,7 +372,7 @@ cb773cdb-e05e-4ecf-bcc6-e663961f9b16,diminished.autos,available,1.8,19.98,medium
 2c444477-7258-4e16-9a1d-a1dda759d564,congenital.autos,available,1.8,19.98,high,low,10,namecheap,,,12/08/2026 21:40
 faaffbf5-90fe-4296-94c7-d95e54f74f19,fenestral.autos,available,1.8,19.98,medium,low,9,namecheap,,,18/08/2026 01:09
 bc9a53ff-07e8-4c98-ae35-e9b8ee6287ed,katy.autos,available,1.99,,high,low,4,name.com,,,
-f04a4c18-3c3d-4ab2-91fc-bdc963655723,ulterior.autos,available,1.8,19.98,high,low,8,namecheap,,,22/08/2026 20:32
+f04a4c18-3c3d-4ab2-91fc-bdc963655723,ulterior.autos,available,1.8,19.98,medium,low,8,namecheap,,,22/08/2026 20:32
 69a3fc1d-0096-47d5-913c-2ffb329f2dc8,weatherly.autos,available,1.8,21.98,medium,low,9,namecheap,,,13/09/2026 09:23
 ac5ff45d-a1ad-4022-9148-c8da9b02bdf3,grime.autos,available,1.8,19.98,medium,low,5,namecheap,,,14/08/2026 09:15
 c417ce1c-f818-4ce4-9f35-705f12e83ee3,centre.autos,available,1.8,21.98,high,low,6,namecheap,,,23/09/2026 13:22
@@ -419,19 +424,19 @@ fa21c742-fd92-4aa6-9514-6ace6116dc05,nettlesome.autos,available,1.8,19.98,medium
 70f55a04-1105-481e-a609-fb39d4357776,lunt.autos,available,1.99,17.29,medium,low,4,namesilo,,,18/09/2026 06:40
 841c51d4-75b3-4267-b2d6-01e48e9798a4,readily.autos,available,1.8,21.98,medium,low,7,namecheap,,,15/09/2026 21:42
 367771a6-bde2-45f4-85d4-4bce44add76d,mining.autos,resell,,,high,low,6,"GoDaddy.com, LLC",22/02/2022 17:39,22/02/2027 23:59,26/09/2026 07:34
-1b799128-d236-4c5a-a93f-cb806268c540,lovesome.autos,available,1.8,19.98,high,low,8,namecheap,,,
+1b799128-d236-4c5a-a93f-cb806268c540,lovesome.autos,available,1.8,19.98,medium,low,8,namecheap,,,
 756cde45-8047-4b1a-a356-30db726e65ba,mcleod.autos,available,1.99,17.29,high,low,6,namesilo,,,27/09/2026 06:53
 84522c01-cfc5-4879-ad7e-0ade16ee6d35,reluctant.autos,available,1.8,19.98,medium,low,9,namecheap,,,24/08/2026 08:21
 aafc8001-a0a0-479c-b379-fc7ab84e1093,wasnt.autos,available,1.99,,low,low,5,name.com,,,
 9207597b-d0ca-4ee1-bea9-1f6ee93596e2,definite.autos,available,1.99,17.29,high,low,8,namesilo,,,24/09/2026 05:06
 e82fdf37-1627-46d1-b20b-ae6db8d331d1,talebearer.autos,available,1.8,21.98,medium,low,10,namecheap,,,11/09/2026 10:34
-4330fd63-7e38-42e6-bc31-3c3d945e2379,slain.autos,available,1.8,21.98,high,low,5,namecheap,,,10/09/2026 09:53
+4330fd63-7e38-42e6-bc31-3c3d945e2379,slain.autos,available,1.8,21.98,medium,low,5,namecheap,,,10/09/2026 09:53
 56554c86-61a3-4a16-8ed9-0ee1d244378a,escort.autos,premium,2660,2660,high,low,6,namesilo,,,24/09/2026 06:34
 47d23532-5b01-45cb-b87f-316bf59d43ba,assayer.autos,available,1.99,17.29,medium,low,7,namesilo,,,20/09/2026 15:59
 5686b5bd-7c4d-4eb7-9f66-4b490c4447b7,asl.autos,premium,2600,2600,high,low,3,namecheap,,,18/09/2026 20:39
 8885c955-4300-44b5-b968-7ed665def045,colossus.autos,available,1.99,17.29,high,low,8,namesilo,,,23/09/2026 03:27
 4ff229c9-3c3b-4b70-9a95-5f21b19fe09b,tornados.autos,available,1.8,21.98,medium,low,8,namecheap,,,16/09/2026 14:12
-b563f256-0dd8-45a2-b647-f78ea0686d26,jungian.autos,available,1.8,19.98,high,low,7,namecheap,,,22/08/2026 14:24
+b563f256-0dd8-45a2-b647-f78ea0686d26,jungian.autos,available,1.8,19.98,medium,low,7,namecheap,,,22/08/2026 14:24
 267f4a07-d993-4b89-b77c-ef53ccd904e0,tush.autos,available,1.8,19.98,medium,low,4,namecheap,,,09/08/2026 11:45
 e77c5124-a5c3-4eff-bc7f-f3bba8025ea9,basswood.autos,available,1.99,17.29,medium,low,8,namesilo,,,22/09/2026 12:34
 19a4483a-0900-4538-808b-4f79e76dd5b3,axe.autos,available,1.99,17.29,high,low,3,namesilo,,,24/09/2026 08:23
@@ -454,11 +459,12 @@ aaf66456-b406-41d3-91fb-d3f6bb89c1ba,eatable.autos,available,1.8,19.98,medium,lo
 88159679-9112-46c2-ae42-8f0dfbe24888,kilogram.autos,available,1.99,,high,low,8,name.com,,,
 5f46609e-ab1a-4b20-935e-23becafcc0a9,terrorist.autos,available,1.8,21.98,medium,low,9,namecheap,,,25/09/2026 10:50
 32fb43f1-09e7-4f23-b25b-0680c86b7732,ambience.autos,available,1.99,17.29,high,low,8,namesilo,,,18/09/2026 16:42
+e0e18d47-93d8-49ae-859a-99bb09f4a5c6,scotland.autos,resell,,,high,low,8,,,,27/09/2026 15:44
 1d04ebc4-9284-4b23-9207-61536f6a1611,alive.autos,available,1.99,17.29,high,low,5,namesilo,,,22/09/2026 05:04
 ecea84a0-217c-40ca-9d30-729146b5b3cc,murine.autos,available,1.8,21.98,medium,low,6,namecheap,,,03/09/2026 11:04
 615d8d34-9a86-4b45-a0fe-d11130de78e1,impotent.autos,available,1.8,19.98,medium,low,8,namecheap,,,21/08/2026 22:52
 7e725250-20e3-4e4f-b655-32d7dffdf733,okay.autos,available,1.8,21.98,high,low,4,namecheap,,,22/09/2026 01:07
-303928a5-24cd-4d5b-b5c7-829334073da6,bronte.autos,available,1.99,17.29,high,low,6,namesilo,,,19/09/2026 10:16
+303928a5-24cd-4d5b-b5c7-829334073da6,bronte.autos,available,1.99,17.29,medium,low,6,namesilo,,,19/09/2026 10:16
 0e7924c3-530b-4974-8771-0cdaf5c4f0fb,post.autos,premium,2500,,high,medium,4,name.com,,,
 2c776bb3-8f28-43b3-9521-d6741a1388c1,altruism.autos,available,1.99,15.75,high,low,8,namesilo,,,
 21982fdd-7ac6-4090-9e95-744a31c5c6a0,possibilities.autos,available,1.99,17.29,medium,low,13,namesilo,,,16/09/2026 10:01
@@ -479,7 +485,7 @@ ce8a15da-10f5-44fe-9fbd-49bee314d151,invented.autos,available,1.99,,high,low,8,n
 5571905c-cc09-433d-921e-0ef35178011d,silhouettes.autos,available,1.99,17.29,medium,low,11,namesilo,,,20/09/2026 11:57
 e5effa76-cbbf-4210-a3d1-bca8b0f4793d,oldfield.autos,available,1.99,17.29,medium,low,8,namesilo,,,22/09/2026 06:52
 68a9208e-7b2f-4661-b04a-0a54c33fd783,frilly.autos,available,1.8,19.98,medium,low,6,namecheap,,,18/08/2026 15:51
-a7b878ec-f9d6-4799-b133-f4a65c5e6803,binate.autos,available,1.8,19.98,high,low,6,namecheap,,,09/08/2026 23:39
+a7b878ec-f9d6-4799-b133-f4a65c5e6803,binate.autos,available,1.8,19.98,medium,low,6,namecheap,,,09/08/2026 23:39
 11bab6b2-05a1-4eb2-8e02-ca56e393c108,shaved.autos,available,1.8,21.98,high,medium,6,namecheap,,,10/09/2026 06:08
 42af1d6c-c8d9-4b92-8288-1fa157b04ade,wysiwyg.autos,available,1.8,21.98,high,low,7,namecheap,,,13/09/2026 13:51
 09945d4c-6b9b-41a7-9314-e7a5de554212,filiform.autos,available,1.8,19.98,medium,low,8,namecheap,,,18/08/2026 04:04
@@ -487,10 +493,10 @@ a7b878ec-f9d6-4799-b133-f4a65c5e6803,binate.autos,available,1.8,19.98,high,low,6
 462df5c6-54a7-4d67-9650-ff10435cc26b,exactly.autos,available,1.99,17.29,high,low,7,namesilo,,,26/09/2026 00:15
 8c8ef43e-569d-4cf0-bc65-bd3710a7ae1e,seeming.autos,available,1.99,,high,low,7,name.com,,,
 9c20757f-5148-46e5-9560-58cc6b933acf,rotten.autos,available,1.8,21.98,high,low,6,namecheap,,,24/09/2026 01:35
-086f5be0-f58c-4298-b0e6-a3a5ca8a4a24,enormously.autos,available,1.8,21.98,high,low,10,namecheap,,,14/09/2026 15:47
+086f5be0-f58c-4298-b0e6-a3a5ca8a4a24,enormously.autos,available,1.8,21.98,medium,low,10,namecheap,,,14/09/2026 15:47
 0b267b40-3f92-442a-bbf2-267d63ded6bf,annelida.autos,available,1.99,17.29,medium,low,8,namesilo,,,19/09/2026 10:23
 c7c95580-d3de-412a-9a5f-9b3d52d5e80b,rebecca.autos,premium,832,832,high,low,7,namesilo,,,25/09/2026 10:16
-034f5c79-6b7b-4c01-8691-91911297d8d4,asexuality.autos,available,1.99,17.29,high,low,10,namesilo,,,20/09/2026 13:33
+034f5c79-6b7b-4c01-8691-91911297d8d4,asexuality.autos,available,1.99,17.29,medium,low,10,namesilo,,,20/09/2026 13:33
 b677dffd-7b65-4596-9634-37b3ea691be4,annona.autos,available,1.8,21.98,medium,low,6,namecheap,,,19/09/2026 10:30
 5b555b5b-1c15-4db6-90da-2dc6add16cc5,incredible.autos,available,1.99,17.29,high,low,10,namesilo,,,25/09/2026 09:04
 69b3c876-32de-46b6-99ef-128273b5f092,condign.autos,available,1.8,19.98,medium,low,7,namecheap,,,12/08/2026 20:26
@@ -513,12 +519,12 @@ ebf48913-9652-4a60-8179-59cc8839cd4a,aggression.autos,available,1.8,21.98,medium
 c23b4cb8-90ad-4292-9eea-88b11311002d,operation.autos,available,1.8,21.98,high,low,9,namecheap,,,25/09/2026 04:49
 58791bd3-bd20-44ed-964a-841835ed6126,adiabatic.autos,available,1.8,19.98,medium,low,9,namecheap,,,
 485dbc38-45fa-4e8c-9476-c48ab4a62bfc,inevitably.autos,available,1.8,21.98,medium,low,10,namecheap,,,15/09/2026 08:09
-31e8ec52-0486-48f2-bcdf-d55880b0338c,tanzanian.autos,available,1.8,21.98,high,low,9,namecheap,,,11/09/2026 08:09
+31e8ec52-0486-48f2-bcdf-d55880b0338c,tanzanian.autos,available,1.8,21.98,medium,low,9,namecheap,,,11/09/2026 08:09
 720fdfe6-306b-4f68-996b-c3ce062a2014,educative.autos,available,1.8,19.98,high,low,9,namecheap,,,15/08/2026 11:09
 8d5c075d-3717-4fb1-b6ea-23e8f31e76ed,tellingly.autos,available,1.99,17.29,medium,low,9,namesilo,,,16/09/2026 08:14
 cab24365-41f8-4baa-b170-4c9c3c5c7ae3,dystopian.autos,available,1.8,19.98,medium,low,9,namecheap,,,14/08/2026 22:10
 fde51be7-17bb-476a-b6d5-f4669b669c9e,aberrance.autos,available,1.99,17.29,medium,low,9,namesilo,,,16/09/2026 15:12
-56d98a48-cf26-4945-a50c-da3ae65fed96,selenium.autos,available,1.99,17.29,high,low,8,namesilo,,,20/09/2026 22:53
+56d98a48-cf26-4945-a50c-da3ae65fed96,selenium.autos,available,1.99,17.29,medium,low,8,namesilo,,,20/09/2026 22:53
 41832685-fbc2-4730-ad3d-4ca30c03e3de,rubbishy.autos,available,1.8,21.98,high,medium,8,namecheap,,,09/09/2026 19:16
 d564349d-191d-4f44-ba66-e814d4c7822f,garret.autos,available,1.8,19.98,medium,low,6,namecheap,,,07/08/2026 15:51
 02cb11f3-4dbd-4b4d-92e8-183e6a733fcb,piratical.autos,available,1.8,21.98,high,medium,9,namecheap,,,08/09/2026 19:58
@@ -526,6 +532,7 @@ a74d77e6-7b5c-4464-90ed-cd76be5c194d,scurrilous.autos,available,1.8,19.98,medium
 fef59ed0-f62f-4547-8b78-90bffcf99d7c,actually.autos,available,1.99,15.75,high,low,8,namesilo,,,
 440e8622-9f27-48e9-ae28-b22665fb33c4,tinny.autos,available,1.8,19.98,medium,low,5,namecheap,,,11/08/2026 09:06
 e4e5b405-6e33-4b8c-8050-ad2d97e0b4e2,blissfully.autos,available,1.8,21.98,high,low,10,namecheap,,,14/09/2026 00:23
+f983f861-8371-43ab-8218-8b9d62d0c188,borrowed.autos,available,1.99,17.29,medium,low,8,namesilo,,,27/09/2026 09:49
 8a71b477-0637-45d6-b0f4-df7f705afb04,anagnost.autos,available,1.99,17.29,medium,low,8,namesilo,,,19/09/2026 01:26
 2672cec6-9f72-4ed9-aa19-6402b5ed107e,yours.autos,available,1.99,,high,low,5,name.com,,,
 b541c467-5053-4f27-816e-841405de6c67,bataan.autos,available,1.99,17.29,medium,low,6,namesilo,,,22/09/2026 13:10
@@ -541,7 +548,7 @@ d43b9912-7f33-4d7a-b1c3-29d282078500,beaming.autos,available,1.8,19.98,high,low,
 db47f51f-30b6-4993-acfa-91827267a418,buzzing.autos,available,1.8,19.98,high,low,7,namecheap,,,
 f3fd1473-3cf5-4963-8564-a07a25404a48,maturity.autos,available,1.99,17.29,high,low,8,namesilo,,,17/09/2026 10:27
 a8ee4e41-a527-4c88-bc1b-811ae3103bcf,limits.autos,available,1.99,17.29,medium,low,6,namesilo,,,18/09/2026 15:06
-44018d7b-10a1-4b32-9054-e9b56ba33aa8,loony.autos,available,1.8,19.98,high,low,5,namecheap,,,06/08/2026 21:17
+44018d7b-10a1-4b32-9054-e9b56ba33aa8,loony.autos,available,1.8,19.98,medium,low,5,namecheap,,,06/08/2026 21:17
 358bdc12-d2fe-4933-b995-6eb37bb225ff,angara.autos,available,1.99,17.29,medium,low,6,namesilo,,,19/09/2026 05:44
 3e67daa4-838d-4735-b751-9c468fe2b1e1,junoesque.autos,available,1.8,19.98,medium,low,9,namecheap,,,22/08/2026 14:31
 efda412d-bfda-40d9-adae-d1ec7fa5aed9,mormon.autos,premium,2500,2500,high,low,6,name.com,,,25/08/2026 06:33
@@ -554,7 +561,7 @@ dae3709e-145d-4938-bffa-5c1742a1e9c3,illative.autos,available,1.8,19.98,medium,l
 f90530c8-68d4-4efb-bef2-6fbd104df35e,dighted.autos,available,1.8,19.98,low,low,7,namecheap,,,14/08/2026 07:17
 475d3d29-ddd0-4801-b85c-e55a1be6a37a,fictional.autos,available,1.8,19.98,high,low,9,namecheap,,,17/08/2026 20:18
 1b2dbf14-1c66-43fc-bdca-3abaf2745de3,soggy.autos,available,1.8,19.98,high,low,5,namecheap,,,10/08/2026 17:14
-5b87c23f-1d36-44a2-951d-f85880371b45,extempore.autos,available,1.8,19.98,high,low,9,namecheap,,,
+5b87c23f-1d36-44a2-951d-f85880371b45,extempore.autos,available,1.8,19.98,medium,low,9,namecheap,,,
 5eb5931e-1f83-425b-bba8-ca037cf2b936,anderson.autos,premium,2660,2660,high,medium,8,namesilo,,,19/09/2026 04:34
 0b64f313-b34d-4667-807c-e0d1410d2351,antony.autos,available,1.99,17.29,high,low,6,namesilo,,,19/09/2026 13:33
 a186d01f-6e23-4cb0-aed4-455368f27f77,splashed.autos,available,1.99,20.99,high,low,8,name.com,,,13/08/2026 15:18
@@ -584,16 +591,17 @@ fdb8b9b0-5dc2-437e-aa0a-19138c70867e,collarbone.autos,available,1.99,15.75,mediu
 432a9d7c-bf58-4d31-b443-d4f0e5d51d96,cone.autos,available,1.99,15.75,high,low,4,namesilo,,,
 cbe51b2d-bf57-46c3-9532-19b26a012a65,believing.autos,available,1.99,17.29,high,low,9,namesilo,,,23/09/2026 05:15
 92609574-e52d-419a-a752-c42246c2de95,futureless.autos,available,1.8,19.98,low,low,10,namecheap,,,18/08/2026 19:15
-ed9c64a9-3faa-4ff1-860a-f96caf3d2d29,goofy.autos,available,1.8,19.98,high,low,5,namecheap,,,12/08/2026 14:50
+ed9c64a9-3faa-4ff1-860a-f96caf3d2d29,goofy.autos,available,1.8,19.98,medium,low,5,namecheap,,,12/08/2026 14:50
 494cff1b-8c9a-414e-a9de-a6c84823c51d,enjoyably.autos,available,1.8,21.98,medium,low,9,namecheap,,,13/09/2026 18:24
 9d11f24f-d8ad-442d-baa7-523da4b1993c,mellow.autos,available,1.8,19.98,high,low,6,namecheap,,,22/08/2026 18:52
 12f681a7-a303-454f-a5a2-7e93da99bb25,markets.autos,available,1.99,17.29,high,low,7,namesilo,,,23/09/2026 06:42
 18eebad5-a275-47ff-a339-42c0ec9c312e,autotroph.autos,available,1.99,17.29,medium,low,9,namesilo,,,21/09/2026 07:36
 449e0fd5-7c8b-414b-b393-a808ade9036f,zest.autos,available,1.99,,high,low,4,name.com,,,
-d088cf93-baf8-4e88-9dab-09c0038559c0,harmsworth.autos,available,1.99,17.29,high,low,10,namesilo,,,18/09/2026 06:27
+d088cf93-baf8-4e88-9dab-09c0038559c0,harmsworth.autos,available,1.99,17.29,medium,low,10,namesilo,,,18/09/2026 06:27
 841992dc-1ba8-4456-97dd-7d8786d941d7,dirt.autos,available,1.99,17.29,high,low,4,namesilo,,,24/09/2026 10:53
 85c0b21e-2303-4a7b-a0f9-3801950f1f72,windswept.autos,available,1.8,21.98,high,low,9,namecheap,,,13/09/2026 12:16
 d4c0212d-3a18-41f6-a0a9-8b491b081567,uric.autos,available,1.8,21.98,medium,low,4,namecheap,,,12/09/2026 23:37
+fffe0a64-09a0-41d1-95c0-8c8605fe52bd,transmission.autos,available,1.99,17.29,high,low,12,namesilo,,,27/09/2026 08:37
 c85f7db2-de6d-4d7f-a019-dd9f6dcce19b,peeved.autos,available,1.8,19.98,medium,low,6,namecheap,,,
 de06970b-d694-4b15-8828-14c61c8f4034,sketchy.autos,available,1.8,21.98,high,low,7,namecheap,,,10/09/2026 09:18
 909f69c9-576d-4a9c-bd66-f29fa0799f71,beheading.autos,available,1.99,17.29,medium,low,9,namesilo,,,23/09/2026 03:20
@@ -603,7 +611,7 @@ be72d5e0-7361-4bb8-959c-ee6597d05a9c,smetana.autos,available,1.8,21.98,medium,lo
 978bcc5b-2304-4db1-a426-3b2b51ef3b63,poinciana.autos,available,1.8,21.98,high,low,9,namecheap,,,23/09/2026 20:09
 1ebdf903-e196-45b4-87e5-8e8794287987,cervical.autos,available,1.8,19.98,high,low,8,namecheap,,,12/08/2026 00:58
 b299779e-e16a-42bd-b7d4-cad536afcb8c,spray.autos,premium,812.5,,high,low,5,name.com,,,
-9b661c05-f607-4607-b51a-3971642f0c96,contacts.autos,available,1.8,21.98,high,low,8,namecheap,,,19/09/2026 20:06
+9b661c05-f607-4607-b51a-3971642f0c96,contacts.autos,available,1.8,21.98,medium,low,8,namecheap,,,19/09/2026 20:06
 0e6b9b96-d8aa-427c-8d6b-1d24d12ab223,blear.autos,available,1.8,19.98,medium,low,5,namecheap,,,10/08/2026 14:01
 ac8ea084-bc57-450e-a3ca-9ca142cc6531,ajuga.autos,available,1.99,17.29,medium,low,5,namesilo,,,17/09/2026 23:42
 d87c3897-546c-4921-8dfe-d29c4f92a772,suggestions.autos,available,1.99,17.29,medium,low,11,namesilo,,,17/09/2026 12:49
@@ -613,13 +621,13 @@ e44941eb-d949-4988-be66-1d1554513e12,singable.autos,available,1.8,21.98,high,med
 41851ed7-5a3f-43df-a4bb-e624373840b3,extended.autos,available,1.8,19.98,high,low,8,namecheap,,,14/08/2026 18:31
 1bd292fd-f18e-4e7b-9180-324152a133d7,spiritual.autos,available,1.8,19.98,high,low,9,namecheap,,,06/08/2026 05:42
 17335afa-cba1-4748-84a3-fd4bb910ad49,push.autos,premium,2500,,high,low,4,name.com,,,
-21a11b29-fe5d-4afb-b929-f1005431f568,aorta.autos,available,1.99,20.99,high,low,5,name.com,,,19/09/2026 16:04
+21a11b29-fe5d-4afb-b929-f1005431f568,aorta.autos,available,1.99,20.99,medium,low,5,name.com,,,19/09/2026 16:04
 d7fc2e96-d36a-4f9b-8a25-23444569c905,carangid.autos,available,1.8,19.98,medium,low,8,namecheap,,,11/08/2026 18:31
 a276d0f2-6f5f-42e2-bea3-a285be75ab97,question.autos,available,1.8,21.98,high,low,8,namecheap,,,25/09/2026 10:22
 4a6826d9-9a7b-4aef-8007-272d785310ea,luxe.autos,premium,62.5,62.5,high,low,4,name.com,,,13/08/2026 19:13
 254bf187-f3d6-42c9-b624-ebe9675a83e7,rugged.autos,available,1.8,19.98,high,low,6,namecheap,,,18/08/2026 18:56
 a3b9746b-b4a0-4a8a-a619-dcb83b73fc87,paper.autos,premium,2500,,high,low,5,name.com,,,
-428230d6-18e8-4d25-8245-52e758e7f370,posters.autos,available,1.99,,high,low,7,name.com,,,
+428230d6-18e8-4d25-8245-52e758e7f370,posters.autos,available,1.99,,medium,low,7,name.com,,,
 c8b97c55-d05c-4999-b35e-5752122b2778,frightened.autos,available,1.8,19.98,medium,low,10,namecheap,,,18/08/2026 15:37
 ca7b5259-db60-4538-a0b3-eb1367b61cfa,thankless.autos,available,1.8,21.98,medium,low,9,namecheap,,,11/09/2026 12:28
 96e4d200-1a92-46d8-9f1b-00bee5f48450,azoic.autos,available,1.8,19.98,medium,low,5,namecheap,,,08/08/2026 02:22
@@ -635,6 +643,7 @@ aa2830f2-a415-461b-8d99-824d36bd9dde,cypher.autos,available,,,high,medium,6,,,,
 9cd53c59-66f4-417c-9036-99fc0000e301,dionysia.autos,available,1.99,17.29,high,low,8,namesilo,,,21/09/2026 13:58
 b7517207-d695-4a2e-a1b9-bb7c757e6506,saddle.autos,available,1.99,,high,low,6,name.com,,,
 99e6fc81-5047-4767-bdc1-2aff91d94e4e,paintable.autos,available,1.8,21.98,medium,low,9,namecheap,,,04/09/2026 23:06
+d32c7169-3903-4206-8b10-468b3af34e5d,receiving.autos,available,1.24,13.97,high,low,9,spaceship,,,27/09/2026 17:11
 e995c7cd-e77a-4da4-810c-bf8b477d8cb5,opt.autos,available,1.99,17.29,high,low,3,namesilo,,,25/09/2026 12:35
 4bcd2f4b-b23b-48ab-aede-25dbafb9bd8d,doing.autos,available,1.99,17.29,high,low,5,namesilo,,,25/09/2026 11:30
 990b0dfe-2356-47d5-9855-2ca0e6c31fd0,aalii.autos,available,1.8,21.98,medium,low,5,namecheap,,,16/09/2026 13:12
@@ -648,8 +657,9 @@ a9534505-18c2-4c91-8d2c-a3aebbea62f7,fugacious.autos,available,1.8,19.98,medium,
 6d43624b-4caf-4957-8a13-161624c6d862,shackled.autos,available,1.8,19.98,medium,low,8,namecheap,,,18/08/2026 02:56
 6492b382-0292-45be-9802-0580161aed2e,cyrillic.autos,available,1.99,20.99,medium,low,8,name.com,,,13/08/2026 14:33
 29cd8e7f-6447-4dbf-84f7-4fec02b1e312,condemn.autos,available,1.99,15.75,medium,low,7,namesilo,,,
+a2b3c000-716a-4699-813f-e1a37e3556ec,kellogg.autos,premium,2660,2660,high,low,7,namesilo,,,27/09/2026 14:32
 0aef6d2d-08b7-4b6d-9c0e-a3f7070c6751,cxxx.autos,available,,,high,low,4,,,,
-4d366dde-1580-4a1d-8e4a-09261a7a5c2d,jerome.autos,available,1.99,17.29,high,low,6,namesilo,,,25/09/2026 05:46
+4d366dde-1580-4a1d-8e4a-09261a7a5c2d,jerome.autos,available,1.99,17.29,medium,low,6,namesilo,,,25/09/2026 05:46
 d44bec4b-1307-4e55-822e-5ead5ca37b80,grudging.autos,available,1.8,19.98,medium,low,8,namecheap,,,20/08/2026 20:31
 6ee10640-3d4d-4c16-8298-9b23c0372ad3,limpid.autos,available,1.8,19.98,high,low,6,namecheap,,,13/08/2026 09:41
 dce8efa7-a64a-435e-bd0d-b5a38f20909e,sideburns.autos,available,1.99,,high,low,9,name.com,,,
@@ -673,6 +683,7 @@ e075afc3-ac79-4a9c-b3c8-988bc650bc44,hollow.autos,available,1.8,19.98,high,low,6
 ff036ef3-c15a-4b2a-8d67-668c82650015,ablated.autos,available,1.8,19.98,medium,low,7,namecheap,,,
 76ac1e3f-4155-45ab-b59c-a6895674886b,springy.autos,available,1.8,19.98,high,low,7,namecheap,,,10/08/2026 21:49
 7de23474-81c9-42b3-b4d6-dae3d24d8191,papers.autos,available,1.99,17.29,high,low,6,namesilo,,,24/09/2026 23:21
+94c857b2-4ea7-4a7d-ae83-b9b3c7db21ec,boarding.autos,available,1.99,17.29,high,low,8,namesilo,,,27/09/2026 11:44
 0916a5b3-a151-4619-85be-f79136a73134,awfully.autos,available,1.99,17.29,medium,low,7,namesilo,,,22/09/2026 15:26
 9cbda16f-900f-4569-a429-585112535527,sorcery.autos,available,1.99,20.99,high,low,7,name.com,,,23/09/2026 23:51
 2627533c-ba26-4957-a1b2-0e9ff17476e5,sideboard.autos,available,1.99,17.29,high,low,9,namesilo,,,24/09/2026 10:55
@@ -682,7 +693,7 @@ aab3c8ae-2247-40cc-b478-f45c9e721ba4,grumble.autos,available,1.8,19.98,high,low,
 5373df73-408e-4825-8dd3-8d52037518b5,agronomic.autos,available,1.8,19.98,medium,low,9,namecheap,,,
 23b7e878-7f78-4f0c-99ec-9027fba71f74,fijian.autos,available,1.8,19.98,high,low,6,namecheap,,,18/08/2026 04:02
 e8814fcc-88ac-42c3-b862-9880a2f40a54,baikal.autos,available,1.8,21.98,high,low,6,namecheap,,,21/09/2026 18:54
-b0c59f1f-8122-43f1-9458-b87794cb8600,sinister.autos,available,1.8,19.98,high,low,8,namecheap,,,24/08/2026 20:02
+b0c59f1f-8122-43f1-9458-b87794cb8600,sinister.autos,available,1.8,19.98,medium,low,8,namecheap,,,24/08/2026 20:02
 ffa89605-ee11-480b-84a6-f99b0631f44f,higher.autos,available,1.99,,high,low,6,name.com,,,
 1f8afd0a-f787-4978-91ca-64ec320d9294,worthwhile.autos,available,1.99,,high,low,10,name.com,,,
 5d4189bc-8edc-4a84-854e-67ab7ca50518,eagerness.autos,available,1.99,17.29,high,low,9,namesilo,,,21/09/2026 09:28
@@ -694,7 +705,7 @@ a3bb2715-3f01-4060-a0a1-e244d1d96865,askew.autos,available,1.8,19.98,medium,low,
 0de412ad-b75a-4e2f-a205-3a0caadc6417,unverified.autos,available,1.8,21.98,medium,low,10,namecheap,,,12/09/2026 22:13
 7703b77c-0800-425b-b70c-cc8331b86668,dogsit.autos,available,1.99,15.75,high,low,6,namesilo,,,
 c751ca4c-2a58-4006-9d4b-6382790d1524,anisotropy.autos,available,1.99,17.29,medium,low,10,namesilo,,,19/09/2026 09:38
-a551a0a2-f295-4aa7-b18d-45b21a613bbe,intestinal.autos,available,1.8,21.98,high,low,10,namecheap,,,04/09/2026 08:14
+a551a0a2-f295-4aa7-b18d-45b21a613bbe,intestinal.autos,available,1.8,21.98,medium,low,10,namecheap,,,04/09/2026 08:14
 6450ae84-e85a-48a7-8cf1-6cc7dd0002fe,sprayer.autos,available,1.99,17.29,high,low,7,namesilo,,,21/09/2026 00:21
 c3703811-1951-4064-81fa-5435d714dfc6,deafened.autos,available,1.99,20.99,medium,low,8,name.com,,,13/08/2026 19:52
 fa4dcfc7-373a-4226-87ea-26939900a481,greyed.autos,available,1.8,19.98,medium,low,6,namecheap,,,20/08/2026 20:04
@@ -711,7 +722,7 @@ e5e39a0f-5a7c-44f8-bfaa-c49a67a9590d,anglesey.autos,available,1.99,17.29,high,lo
 006f3de1-09ff-40de-8ae6-e237052a10bd,titanic.autos,available,1.8,21.98,high,low,7,namecheap,,,11/09/2026 16:30
 efd3531f-4caf-4dbe-b6b4-147ee4c50fd2,stays.autos,available,1.8,21.98,high,low,5,namecheap,,,24/09/2026 18:24
 57b2b11f-d032-42bd-bf1a-420d92131421,breast.autos,available,1.99,17.29,high,low,6,namesilo,,,24/09/2026 08:29
-ea2732ce-c0fb-424e-b695-2f639c343cf6,critically.autos,available,1.99,,high,low,10,name.com,,,
+ea2732ce-c0fb-424e-b695-2f639c343cf6,critically.autos,available,1.99,,medium,low,10,name.com,,,
 c98273a1-c8b5-4f82-a7ca-06b88279f8c2,max.autos,premium,812.5,,high,medium,3,name.com,,,
 63447dda-6da7-48f6-bb37-4223aa7aadfc,piercing.autos,available,1.8,19.98,high,low,8,namecheap,,,22/08/2026 01:25
 9c70dd94-2fbd-4fc4-9986-e9bba5a89824,steer.autos,available,,,high,low,5,,,,
@@ -722,7 +733,7 @@ eeae91ca-c0e9-4212-9f2f-b23a2cf26c02,draft.autos,resell,,,high,low,5,"Spaceship,
 eff19fbc-12d2-42b3-86ea-3cffee6209b4,mao.autos,premium,812.5,,high,low,3,name.com,,,
 cf51417b-4000-45ed-ab38-320c2628db10,subsidiary.autos,available,1.99,17.29,high,low,10,namesilo,,,22/09/2026 14:17
 27cbc3c6-28d6-4bc2-b800-8e13a5c203de,unhappiness.autos,available,1.99,,medium,low,11,name.com,,,
-800b4db7-8358-4c76-bc9c-8bcbc4992e7f,arrested.autos,available,1.8,21.98,high,low,8,namecheap,,,17/09/2026 20:22
+800b4db7-8358-4c76-bc9c-8bcbc4992e7f,arrested.autos,available,1.8,21.98,medium,low,8,namecheap,,,17/09/2026 20:22
 f92c3be9-dbb3-42da-9417-71ac83443727,barrio.autos,available,1.99,17.29,medium,low,6,namesilo,,,22/09/2026 08:38
 4c8e812e-df9b-438e-aafe-572927caec65,cruelty.autos,available,1.8,21.98,medium,low,7,namecheap,,,24/09/2026 19:49
 7144ae34-cff8-4523-b1c9-833d5b212a68,punily.autos,available,1.8,21.98,low,low,6,namecheap,,,15/09/2026 22:01
@@ -738,23 +749,23 @@ f67148b9-7b73-42ec-83c0-9c84a58e7333,bitstock.autos,available,1.99,17.29,medium,
 06d5692c-0d02-4822-a609-8570dcf7a27e,thermoset.autos,available,1.8,21.98,medium,low,9,namecheap,,,11/09/2026 12:58
 f67efa15-b80e-4ece-9682-ad3d1b079c9a,wounding.autos,available,1.8,21.98,medium,low,8,namecheap,,,10/09/2026 17:53
 21f04b08-816f-47f2-b7da-71ab6b475bbe,theatres.autos,available,1.99,17.29,medium,low,8,namesilo,,,20/09/2026 19:41
-b20268e5-20a5-40ab-8f3c-e722c18d9303,inductive.autos,available,1.8,19.98,high,low,9,namecheap,,,22/08/2026 03:29
+b20268e5-20a5-40ab-8f3c-e722c18d9303,inductive.autos,available,1.8,19.98,medium,low,9,namecheap,,,22/08/2026 03:29
 b03b944e-49d6-4037-916b-a0eb65929078,reclusive.autos,available,1.8,21.98,medium,low,9,namecheap,,,09/09/2026 11:40
 73e9e9ac-5a4c-40c4-ae6a-272bda05955c,tapped.autos,available,1.8,21.98,high,low,6,namecheap,,,11/09/2026 08:19
 4de87fca-e166-45b4-b782-60e555e994b3,nuptial.autos,available,1.8,19.98,high,low,7,namecheap,,,11/08/2026 03:55
 9216ce7f-8d42-4da4-9e4d-da9b6fe4e74d,andvari.autos,available,1.99,17.29,medium,low,7,namesilo,,,19/09/2026 05:02
 046ec0b5-2bf4-4c05-99bd-c3d0c12e1d2d,exiguous.autos,available,1.8,19.98,medium,low,8,namecheap,,,17/08/2026 17:18
-ef5c815f-dd03-4ff6-9169-501df8a524a1,unusual.autos,available,1.99,,high,low,7,name.com,,,
+ef5c815f-dd03-4ff6-9169-501df8a524a1,unusual.autos,available,1.24,13.97,high,low,7,spaceship,,,28/09/2026 01:29
 7b2c113e-1b34-45a2-9326-bdb1277385c2,warhol.autos,available,1.99,17.29,high,low,6,namesilo,,,19/09/2026 05:06
 dc6e2694-7c5f-4463-a86b-a68df80c642a,shortened.autos,available,1.8,21.98,high,medium,9,namecheap,,,10/09/2026 06:48
 c296cc3b-a32a-4595-9b61-4ce0d382282e,cognizant.autos,available,1.8,19.98,high,low,9,namecheap,,,08/08/2026 00:13
 a1496df1-d46e-4c5c-b7c9-342584b778b7,revokable.autos,available,1.8,21.98,medium,low,9,namecheap,,,09/09/2026 16:23
 ed81e417-7eac-43bb-a170-618d9cdf6357,autarchic.autos,available,1.8,19.98,medium,low,9,namecheap,,,07/08/2026 18:36
-774ce2db-6a2c-4118-818b-879c9de35da3,work.autos,premium,812.5,,high,medium,4,name.com,,,
 044d27b9-b57e-4e38-9613-02fcb90c9e8f,grugru.autos,available,1.99,17.29,medium,low,6,namesilo,,,17/09/2026 03:33
 48c335ee-ac23-4d48-a5b8-1c2c4260dcea,nihilist.autos,available,1.99,17.29,medium,low,8,namesilo,,,19/09/2026 02:26
 ec877006-8551-485d-8c6e-9d13b985e54f,saddled.autos,available,1.8,21.98,high,medium,7,namecheap,,,09/09/2026 20:41
 3b94455a-89ea-4a8c-a975-684b816f5010,abundantly.autos,available,1.99,15.75,high,low,10,namesilo,,,
+759c72bd-1e97-407d-b843-f14bc8c0e53c,russ.autos,resell,,,high,low,4,,,,27/09/2026 18:02
 eb2d5652-133b-4324-adba-ec2f52de1684,precordial.autos,available,1.8,21.98,high,medium,10,namecheap,,,09/09/2026 01:19
 2787db29-ed20-40a0-b8e6-9c54ff1a0abf,winfred.autos,available,1.99,20.99,medium,low,7,name.com,,,19/09/2026 19:23
 5571a5ff-ed39-470c-a871-510c04e9c32d,affirmed.autos,available,1.99,17.29,high,low,8,namesilo,,,17/09/2026 14:27
@@ -770,6 +781,7 @@ e721bdb4-41ef-43a7-ac2e-726aac371a03,offstage.autos,available,1.8,19.98,high,low
 c80fdf99-e008-4189-a27a-6afa757cce1b,absentee.autos,available,1.99,17.29,medium,low,8,namesilo,,,16/09/2026 17:43
 c6976744-c7db-47ca-9b19-58419c3fa376,victoria.autos,premium,812.5,,high,low,8,name.com,,,
 462fc81f-e49a-410d-ada4-4ca255bf493d,attestor.autos,available,1.99,17.29,medium,low,8,namesilo,,,21/09/2026 01:38
+3ea8a4f8-9181-4d0b-a846-27de3fce38b3,hagen.autos,available,1.24,13.97,high,low,5,spaceship,,,27/09/2026 20:14
 4635a48d-4c4a-4741-89c1-f3a4173b932c,trifid.autos,available,1.8,21.98,medium,low,6,namecheap,,,11/09/2026 19:33
 70d28175-c9e4-446c-af7d-ac7b9e621633,dagger.autos,available,1.8,21.98,high,low,6,namecheap,,,24/09/2026 20:52
 a76d3294-daf7-44b6-932d-1ad2c4e46ace,fewer.autos,available,1.99,17.29,medium,low,5,namesilo,,,24/09/2026 17:41
@@ -780,6 +792,8 @@ acbff73d-2e5e-4572-a33b-a03c18436cab,penciled.autos,available,1.8,21.98,medium,l
 a7bb4bd2-7bfa-47a4-bdb8-35de932b7eaf,filesize.autos,available,1.99,15.75,medium,low,9,namesilo,,,
 3bee0946-3e01-48a2-b764-273fde6cf338,families.autos,available,1.99,15.75,high,low,8,namesilo,,,
 4fd05fcb-a5e0-4516-8290-d237b7080b5a,shopsoiled.autos,available,1.8,21.98,high,medium,10,namecheap,,,10/09/2026 06:45
+fb23adf8-1efc-4f99-b140-fc55e94bd231,psychiatrist.autos,available,1.8,21.98,high,low,12,namecheap,,,27/09/2026 16:44
+8b5db0ea-c2a8-4872-9274-3dd8041361eb,terence.autos,available,1.8,21.98,medium,low,7,namecheap,,,27/09/2026 15:27
 168020a6-0de3-4ba8-a073-e58426e4cd89,forehand.autos,available,1.8,19.98,medium,low,8,namecheap,,,18/08/2026 11:38
 4afdb51b-3962-4b71-ab0a-25a447b271ab,martial.autos,available,1.8,19.98,high,low,7,namecheap,,,24/08/2026 16:36
 c77e639b-7a81-461b-8f68-14fccf27a97f,esthesia.autos,available,1.8,21.98,medium,low,8,namecheap,,,17/09/2026 13:25
@@ -795,7 +809,7 @@ ed25485c-a8a7-4786-a597-08e25bd97331,devious.autos,available,1.8,19.98,medium,lo
 77af4c4f-e184-4ad3-92d0-d1b32c1df6af,euphoric.autos,available,1.8,19.98,high,low,8,namecheap,,,17/08/2026 14:22
 1a1b6bda-a4fe-41e6-b6b7-2c615e6c9e6c,domingo.autos,available,1.99,17.29,high,low,7,namesilo,,,25/09/2026 04:55
 2109ad21-a047-4489-a4ca-c062f5d31a59,absorb.autos,available,1.8,21.98,high,low,6,namecheap,,,10/09/2026 19:56
-c8f7f8d9-13fe-4069-b224-5ecd833db48e,decisively.autos,available,1.8,21.98,high,low,10,namecheap,,,14/09/2026 11:10
+c8f7f8d9-13fe-4069-b224-5ecd833db48e,decisively.autos,available,1.8,21.98,medium,low,10,namecheap,,,14/09/2026 11:10
 56c5de99-0047-4618-a636-7ced794be4db,unredeemed.autos,available,1.8,21.98,medium,low,10,namecheap,,,12/09/2026 17:55
 3ecba30c-aad5-4030-9b4e-cc2934d45652,posts.autos,available,1.99,17.29,medium,low,5,namesilo,,,19/09/2026 00:49
 035e69ce-9ad6-4d8f-bb26-c090de8e0a8c,foetal.autos,available,1.8,19.98,medium,low,6,namecheap,,,18/08/2026 02:18
@@ -804,14 +818,14 @@ c8f7f8d9-13fe-4069-b224-5ecd833db48e,decisively.autos,available,1.8,21.98,high,l
 330c2dce-2833-4379-8815-a89c1cf2f951,homeward.autos,available,1.8,19.98,high,low,8,namecheap,,,21/08/2026 11:22
 6a18eb90-ee3e-487e-a601-0ad25b12a6f0,bricks.autos,available,1.99,15.75,high,low,6,namesilo,,,
 8e501b26-bd04-4878-8705-9910d4851699,bogus.autos,available,1.8,19.98,medium,low,5,namecheap,,,08/08/2026 22:58
-14b041c2-9f42-4f47-8321-e843e5364a75,trimly.autos,available,1.99,17.29,high,low,6,namesilo,,,16/09/2026 09:29
+14b041c2-9f42-4f47-8321-e843e5364a75,trimly.autos,available,1.99,17.29,medium,low,6,namesilo,,,16/09/2026 09:29
 a181c9d5-3988-4fad-814a-14c93b3ffbb1,bared.autos,available,1.99,17.29,medium,low,5,namesilo,,,22/09/2026 17:24
 8d70859d-5351-438d-8c30-941c038dd2a2,maths.autos,available,1.99,,high,low,5,name.com,,,
 03bcc559-e10d-4b51-b5ef-6812bed4175c,animus.autos,available,1.99,17.29,high,low,6,namesilo,,,19/09/2026 09:22
 6d520283-08b8-4bb5-ad34-44ace52ad445,unusable.autos,available,1.8,21.98,medium,low,8,namecheap,,,12/09/2026 21:58
 fa477801-48b9-4167-b20d-02281acdd03e,aphesis.autos,available,1.99,17.29,medium,low,7,namesilo,,,19/09/2026 16:55
 92f61e55-fda3-4303-9bca-e9f70de20d2c,paul.autos,premium,812.5,,high,medium,4,name.com,,,
-13fece23-af24-4f57-be13-00a9ff5b7ef7,kaufman.autos,available,1.99,17.29,high,low,7,namesilo,,,25/09/2026 22:56
+13fece23-af24-4f57-be13-00a9ff5b7ef7,kaufman.autos,available,1.99,17.29,medium,low,7,namesilo,,,25/09/2026 22:56
 e34333b4-4232-440c-89de-36987f2ca88e,supervise.autos,available,1.99,,high,low,9,name.com,,,
 0c2ef786-600d-40a0-afdb-4f4da1fbd767,immortal.autos,available,1.8,19.98,high,low,8,namecheap,,,21/08/2026 21:12
 e22cfd4b-6626-4c87-b6e8-a5225e2111a5,pinch.autos,available,1.99,,high,low,5,name.com,,,
@@ -824,14 +838,14 @@ e6ef80b2-ff93-4183-be62-89a0e128c141,amiability.autos,available,1.99,17.29,high,
 eb60ec53-c893-4178-9d38-ce6698c77d0d,giacometti.autos,available,1.99,17.29,high,low,10,namesilo,,,18/09/2026 02:46
 60160eb8-2cdd-4668-a08e-15267f971fde,notwithstanding.autos,available,1.99,,medium,low,15,name.com,,,
 4d6be7f4-d5f2-4905-892e-b356cd877c29,waxy.autos,available,1.8,19.98,medium,low,4,namecheap,,,09/08/2026 14:13
-836a46d0-7c66-479c-844e-7759951a0b53,beano.autos,available,1.8,21.98,high,low,5,namecheap,,,22/09/2026 20:40
+836a46d0-7c66-479c-844e-7759951a0b53,beano.autos,available,1.8,21.98,medium,low,5,namecheap,,,22/09/2026 20:40
 fb0f2b37-8821-4bff-be5b-085711ef39ab,sunk.autos,available,1.8,21.98,medium,low,4,namecheap,,,11/09/2026 01:50
 f911b903-1437-4f3b-96a2-fc6406113a34,tolerably.autos,available,1.8,21.98,high,medium,9,namecheap,,,10/09/2026 12:56
 8e0ff0fa-ab1e-4a8d-837c-ef7ff1374d2d,trussed.autos,available,1.8,21.98,medium,low,7,namecheap,,,11/09/2026 15:47
 7016dc72-b57e-4a16-ad1f-bf9a3b1fcce0,monkfish.autos,available,1.99,17.29,medium,low,8,namesilo,,,18/09/2026 11:42
 6fe2cda4-d961-4c61-a3e9-f6edec63be80,kweek.autos,available,1.8,21.98,medium,low,5,namecheap,,,21/09/2026 18:35
 49d8df54-691f-4f71-a814-2c0ff222952b,debile.autos,available,1.99,20.99,medium,low,6,name.com,,,13/08/2026 20:28
-2a103e30-1aa0-4b21-916c-5edb93daa4c0,mockery.autos,available,1.8,19.98,high,low,7,namecheap,,,22/08/2026 12:39
+2a103e30-1aa0-4b21-916c-5edb93daa4c0,mockery.autos,available,1.8,19.98,medium,low,7,namecheap,,,22/08/2026 12:39
 cc719837-dc16-4035-a680-efa493a9a9c2,accurate.autos,available,1.99,17.29,high,low,8,namesilo,,,21/09/2026 15:59
 700afb28-9226-4c90-ad6b-bd11c962e378,stepson.autos,available,1.99,,high,low,7,name.com,,,
 8a2f78ce-0896-4f4c-b1d7-a64756df0490,quadratic.autos,available,1.8,21.98,high,low,9,namecheap,,,09/09/2026 07:19
@@ -853,7 +867,7 @@ fa29cb82-aa98-485e-a3b4-cce26d787fcc,ivry.autos,available,1.99,17.29,medium,low,
 4316b73c-4907-4feb-a75a-2e2f82bd6bac,trios.autos,available,1.99,17.29,medium,low,5,namesilo,,,19/09/2026 22:38
 0c2c82b2-1092-4fe3-bd43-0c23600d4e29,scapular.autos,available,1.8,21.98,medium,low,8,namecheap,,,09/09/2026 22:51
 e382bd8a-483a-4187-aca5-21d613fcee55,branching.autos,available,1.8,19.98,high,low,9,namecheap,,,11/08/2026 02:08
-2bd79d47-44cf-4204-ae26-a68c178c6ea0,wear.autos,available,1.99,,high,low,4,name.com,,,
+2bd79d47-44cf-4204-ae26-a68c178c6ea0,wear.autos,available,1.8,21.98,high,low,4,namecheap,,,27/09/2026 08:43
 630335dd-622f-4b5b-8136-e602fb22fbec,alonso.autos,available,1.99,20.99,high,low,6,name.com,,,18/09/2026 07:29
 47990fce-c431-421e-b4f1-3afbc32c7791,loose.autos,available,1.99,17.29,medium,low,5,namesilo,,,22/09/2026 10:42
 6a41047e-46ac-4faa-9e68-189ef95e6cdb,governance.autos,available,1.8,19.98,high,low,10,namecheap,,,20/08/2026 17:22
@@ -883,13 +897,13 @@ c2260e0b-bf97-47ca-b775-b5d65dd53bf9,follower.autos,available,1.99,15.75,high,lo
 cf8a6358-f697-4c9b-b71e-dbe5d846e5e8,incitive.autos,available,1.8,19.98,medium,low,8,namecheap,,,22/08/2026 01:27
 409ae8f6-0480-47a1-bb4f-dcc4624c039a,corned.autos,available,1.8,19.98,medium,low,6,namecheap,,,13/08/2026 01:33
 a6e5ae75-c372-4a52-85f0-88b9710343ad,alqaeda.autos,available,1.99,17.29,medium,low,8,namesilo,,,18/09/2026 00:59
-46076964-58b3-4911-93cb-f22943dda393,hemorrhage.autos,available,1.99,17.29,high,low,10,namesilo,,,24/09/2026 05:28
+46076964-58b3-4911-93cb-f22943dda393,hemorrhage.autos,available,1.99,17.29,medium,low,10,namesilo,,,24/09/2026 05:28
 e4d7541f-1506-4efd-8989-e15678396806,gently.autos,available,1.99,,high,low,6,name.com,,,
 c130d002-ee5c-450a-a740-13a2153cb5eb,lineage.autos,available,1.8,21.98,high,low,7,namecheap,,,08/09/2026 13:04
 2eaa8ad6-4310-47aa-abc5-21dc17c29cb1,postbox.autos,available,1.99,,high,low,8,name.com,,,
 ef83b2cd-6b59-42fc-9f94-48afc76719da,hair.autos,premium,812.5,,high,low,4,name.com,,,
 c06ab291-3085-4234-8ab6-73d6c9187ae6,conduct.autos,available,1.99,17.29,high,low,7,namesilo,,,23/09/2026 03:13
-72429514-1031-4f9e-a6ad-6f48d442d03b,apolitical.autos,available,1.8,19.98,high,low,10,namecheap,,,06/08/2026 02:02
+72429514-1031-4f9e-a6ad-6f48d442d03b,apolitical.autos,available,1.8,19.98,medium,low,10,namecheap,,,06/08/2026 02:02
 6232c6fe-a2ba-420e-94e8-9575476c0e96,azygous.autos,available,1.8,19.98,medium,low,7,namecheap,,,08/08/2026 03:27
 05a545d4-4442-4271-b5bd-c9c90611b36f,indigenous.autos,available,1.8,19.98,high,low,10,namecheap,,,07/08/2026 19:31
 7f6af1ea-8e94-492b-a199-6db71e7b78b3,native.autos,available,1.8,21.98,high,low,6,namecheap,,,03/09/2026 13:45
@@ -900,7 +914,7 @@ f3b65fc1-cd65-4f71-9906-f0210fa24afa,faultless.autos,available,1.8,19.98,high,lo
 73425b25-f1b0-490f-b9ab-b641340834c7,main.autos,resell,,,high,low,4,"Spaceship, Inc.",10/08/2026 16:14,10/08/2027 23:59,26/09/2026 07:23
 9183bff9-b9dd-4df8-ab6b-8fc0bd8c4d38,backwash.autos,available,1.99,17.29,medium,low,8,namesilo,,,17/09/2026 15:44
 ad9d9e00-86d6-4a7d-a2ef-53f53897f6d8,anarchist.autos,available,1.99,17.29,high,low,9,namesilo,,,19/09/2026 02:24
-319e2c6b-4393-47b8-8c3f-625daae3dad2,superheroes.autos,available,1.99,17.29,high,low,11,namesilo,,,21/09/2026 05:42
+319e2c6b-4393-47b8-8c3f-625daae3dad2,superheroes.autos,available,1.99,17.29,medium,low,11,namesilo,,,21/09/2026 05:42
 f66cc2d6-bb12-4e54-add6-36983ff3a270,deficient.autos,available,1.8,19.98,medium,low,9,namecheap,,,13/08/2026 23:22
 19f7a5e7-c3b0-4b71-8c39-0595d9fef9c4,chime.autos,available,1.99,15.75,high,low,5,namesilo,,,
 7300bbd3-65f0-49d7-bdb8-5ab1561f5b0c,debase.autos,available,1.8,19.98,medium,low,6,namecheap,,,
@@ -985,17 +999,3 @@ dcb03bef-cda9-4013-968e-bb35e3a92416,paddle.autos,premium,812.5,,high,high,6,nam
 f8a186f8-d204-43d3-baef-b573c3ec20b7,harmful.autos,available,1.8,21.98,medium,low,7,namecheap,,,08/09/2026 09:32
 8d67edc9-25bd-4710-bf5c-4ba1e6c0fea6,wand.autos,premium,832,832,high,low,4,namesilo,,,22/09/2026 14:13
 19ca5904-3339-46a1-b339-c46eacf4b855,posthumous.autos,available,1.8,21.98,medium,low,10,namecheap,,,09/09/2026 00:25
-fdd877c9-8e61-497a-aeb3-ae14dadd2e5b,revelation.autos,available,1.99,,high,low,10,name.com,,,
-39561a29-7380-47b6-8e24-91f0c4ed05c0,rococo.autos,available,1.8,21.98,high,low,6,namecheap,,,09/09/2026 18:12
-67eab05e-bf26-4ccf-b2e7-54ce4beb96a7,energising.autos,available,1.8,19.98,medium,low,10,namecheap,,,17/08/2026 06:43
-088e7702-d4be-4074-9117-65a7b23ade33,luxury.autos,premium,812.5,,high,low,6,name.com,,,
-677c0dc8-341d-45fd-8c41-67e1899e1804,terbium.autos,available,1.99,17.29,medium,low,7,namesilo,,,20/09/2026 23:28
-3f1e7123-e767-4939-8f19-00973fe19f2c,chick.autos,available,1.99,17.29,high,low,5,namesilo,,,24/09/2026 14:27
-ffea9b0e-c494-4d3e-955d-ccd41eb40d7d,cincinnati.autos,premium,812.5,,high,low,10,name.com,,,
-8093d2bc-7ebf-417e-bc6a-24bc4c29db6a,vermicular.autos,available,1.8,21.98,medium,low,10,namecheap,,,13/09/2026 02:27
-73b76323-1244-44fe-ab4b-2d803649f22a,keychains.autos,available,1.99,17.29,medium,low,9,namesilo,,,21/09/2026 02:44
-ab23cf44-674c-4f50-9e83-6d746d101de3,abyssinian.autos,available,1.8,21.98,high,low,10,namecheap,,,16/09/2026 19:54
-a6efd553-01d4-49f1-8f31-d8a5473ce3ec,preachy.autos,available,1.8,21.98,high,medium,7,namecheap,,,09/09/2026 01:07
-3ed6196c-9625-4c34-ba5d-22cdb9cdb61d,cuts.autos,available,1.99,17.29,high,low,4,namesilo,,,19/09/2026 00:14
-00636e9c-0732-4360-b4f7-238832c45fc3,tastes.autos,available,1.99,17.29,medium,low,6,namesilo,,,19/09/2026 00:38
-dbd43448-d5f9-40f0-ac5e-4c186d6600fe,tuneful.autos,available,1.8,19.98,high,low,7,namecheap,,,24/08/2026 19:43
