@@ -1,10 +1,10 @@
-# Available .AUTOS One-Word Domains (27,421)
+# Available .AUTOS One-Word Domains (29,771)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-27%2C421%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-29%2C771%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .autos one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **27,421 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **29,771 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 27,421 domains · **Median ask:** $100.68 · **High-demand under $2,500:** 62
+**Public extract:** 1,000 rows · **Live catalog:** 29,771 domains · **Median ask:** $96.68 · **High-demand under $2,500:** 72
 
-**Last updated:** 2026-09-30
+**Last updated:** 2026-10-01
 **Canonical page:** `https://unique.domains/domains/tld/autos`
 **Best for:** founders, investors, studios
 
@@ -69,21 +69,21 @@ print(df.head())
 | asl.autos     | premium   | $2,600    | $2,600        | high           | low    | 3      | namecheap       |
 | atf.autos     | available | $1.80     | $21.98        | high           | low    | 3      | namecheap       |
 | plastic.autos | resell    | $1.99     | —             | high           | low    | 7      | Dynadot Inc     |
-| mao.autos     | premium   | $812.50   | —             | high           | low    | 3      | name.com        |
+| dow.autos     | premium   | $2,070.20 | $2,070.20     | high           | high   | 3      | spaceship       |
 | aum.autos     | available | $1.99     | $17.29        | high           | low    | 3      | namesilo        |
 | ash.autos     | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc. |
 | max.autos     | premium   | $715      | $715          | high           | medium | 3      | dynadot         |
 | axe.autos     | available | $1.80     | $21.98        | high           | low    | 3      | namecheap       |
+| lia.autos     | resell    | —         | —             | high           | low    | 3      | —               |
+| ncr.autos     | premium   | $2,600    | $2,600        | high           | low    | 3      | namecheap       |
+| cdp.autos     | available | $1.99     | $17.29        | high           | low    | 3      | namesilo        |
 | rus.autos     | resell    | —         | —             | high           | low    | 3      | —               |
 | aqua.autos    | premium   | $2,600    | $2,600        | high           | medium | 4      | namecheap       |
-| cdp.autos     | available | $1.99     | $17.29        | high           | low    | 3      | namesilo        |
+| cip.autos     | available | $1.24     | $13.97        | high           | low    | 3      | spaceship       |
 | russ.autos    | resell    | —         | —             | high           | low    | 4      | —               |
 | luxe.autos    | premium   | $62.50    | $62.50        | high           | low    | 4      | name.com        |
 | cta.autos     | available | $1.24     | $13.97        | high           | low    | 3      | spaceship       |
 | draft.autos   | resell    | —         | —             | high           | low    | 5      | Spaceship, Inc. |
-| paul.autos    | premium   | $672.95   | $672.95       | high           | medium | 4      | spaceship       |
-| fop.autos     | available | $1.99     | $20.99        | medium         | low    | 3      | name.com        |
-| lifted.autos  | resell    | —         | —             | high           | low    | 6      | Dynadot Inc     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 27,421 live domains                        |
+| 1,000-row public sample | 29,771 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 62 high-demand names under $2,500          |
+| Basic exported fields   | 72 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .AUTOS One-Word Domains*. Version 2026-09-30. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .AUTOS One-Word Domains*. Version 2026-10-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
